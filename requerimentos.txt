@@ -1,0 +1,8 @@
+# pandas, numpy
+sudo pip install pandas --break-system-packages
+
+#ler excel por documentos do Libre
+sudo pip install odfpy --break-system-packages
+
+#usado pelo pandas
+sudo pip install matplotlib --break-system-packages
