@@ -1,0 +1,29 @@
+nome_produto,nome_variacao,id,pedido_id,quantidade,produto_id,variacao_id,preco_promocional
+Camiseta Python é legal,M,1,2,1,1,2,45
+Blue-Ray Rei Leao 2019,sem variação,2,2,1,5,9,71.2
+Notebook Dell Inspiron I15-3567,SSD 256GB,3,8,1,4,7,1678
+Xiaomi MI 9,64GB,4,9,1,3,4,730
+Faca Fileteira Escamadora Albatroz,sem variação,5,10,2,2,8,144
+Jam - Raspberry,normal,6,10,1,13,11,5.6
+Camiseta Python é legal,P,7,11,1,1,1,22
+Camiseta Python é legal,P,8,12,1,1,1,22
+Xiaomi MI 9,64GB,9,13,1,3,4,730
+Camiseta Python é legal,P,10,14,1,1,1,22
+Xiaomi MI 9,64GB,11,15,1,3,4,730
+Xiaomi MI 9,64GB,12,16,1,3,4,730
+Xiaomi MI 9,64GB,13,17,1,3,4,730
+Xiaomi MI 9,64GB,14,18,1,3,4,730
+Xiaomi MI 9,64GB,15,19,1,3,4,730
+Xiaomi MI 9,64GB,16,20,1,3,4,730
+Red Pepper Paste,normal,17,21,1,14,15,0.49
+Beef Ground Medium,normal,18,21,1,9,14,8.44
+Beef Ground Medium,normal,19,22,1,9,14,8.44
+Beef Ground Medium,normal,20,23,1,9,14,8.44
+Blue-Ray Rei Leao 2019,sem variação,21,24,1,5,9,115
+Camiseta Python é legal,P,22,25,1,1,1,22
+Camiseta Python é legal,P,23,26,1,1,1,22
+Faca Fileteira Escamadora Albatroz,sem variação,24,26,1,2,8,72
+Camiseta Python é legal,P,25,27,1,1,1,22
+Xiaomi MI 9,64GB,26,27,1,3,4,730
+Faca Fileteira Escamadora Albatroz,sem variação,27,28,1,2,8,72
+Camiseta Python é legal,P,28,28,1,1,1,22
